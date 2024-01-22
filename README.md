@@ -1,9 +1,9 @@
 # tracerouteAnalyzer
-a Python program to analyze a trace of IP datagrams.
+a Python program to analyze a trace of IP datagrams created by *traceroute*.
 
 Author: hannahwangmb@uvic.ca
 
-Date: Nov.22, 2023
+Date: Nov. 22, 2023
 
 ## Usage
 
