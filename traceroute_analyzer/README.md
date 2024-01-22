@@ -1,4 +1,4 @@
-# tracerouteAnalyzer
+# Traceroute Analyzer
 a Python program to analyze a trace of IP datagrams created by *traceroute*.
 
 Author: hannahwangmb@uvic.ca
