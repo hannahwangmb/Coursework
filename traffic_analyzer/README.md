@@ -1,18 +1,17 @@
-# tracerouteAnalyzer
-a Python program to analyze a trace of IP datagrams created by *traceroute*.
+# TrafficAnalyzer.py
 
 Author: hannahwangmb@uvic.ca
 
-Date: Nov. 22, 2023
+Date: Oct.31, 2023
 
 ## Usage
 
-To run the tracerouteAnalyzer program, use the following command:
+To run the SmartClient program, use the following command:
 
-    $ python3 tracerouteAnalyzer.py <traceroute.pcap>
+    $ python3 TrafficAnalyzer.py <tracefile.cap>
 
-Replace '<traceroute.pcap>' with a traceroute pcap file
+Replace '<tracefile.cap>' with a captured tracefile name
 
-Example:
+## Example:
 
-    $ python3 tracerouteAnalyzer.py traceroute-frag.pcap
+    $ python3 TrafficAnalyzer.py sample-capture-file.cap
