@@ -12,6 +12,6 @@ To run the SmartClient program, use the following command:
 
 Replace '<tracefile.cap>' with a captured tracefile name
 
-## Example:
+Example:
 
     $ python3 TrafficAnalyzer.py sample-capture-file.cap
