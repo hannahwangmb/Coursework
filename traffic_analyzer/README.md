@@ -1,4 +1,4 @@
-# TrafficAnalyzer.py
+# Traffic Analyzer
 
 Author: hannahwangmb@uvic.ca
 
