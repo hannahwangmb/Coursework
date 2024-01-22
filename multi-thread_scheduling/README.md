@@ -1,18 +1,17 @@
-# tracerouteAnalyzer
-a Python program to analyze a trace of IP datagrams created by *traceroute*.
+# Multi-Thread Scheduling (MTS)
+
+Developed a multi-threaded train control simulation in C, effectively managing synchronization, prioritization,
+and real-time event handling. Implemented dynamic queues and optimized resource-sharing conflicts
 
 Author: hannahwangmb@uvic.ca
 
-Date: Nov. 22, 2023
+Date: Oct.25, 2023
 
-## Usage
+## Usage: 
 
-To run the tracerouteAnalyzer program, use the following command:
+Put mts.c, Makefile, inputfile under the same directory, then
 
-    $ python3 tracerouteAnalyzer.py <traceroute.pcap>
+    $ make
+    
+    $ ./mts <inputfile>
 
-Replace '<traceroute.pcap>' with a traceroute pcap file
-
-Example:
-
-    $ python3 tracerouteAnalyzer.py traceroute-frag.pcap
